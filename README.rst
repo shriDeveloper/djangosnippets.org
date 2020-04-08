@@ -59,3 +59,9 @@ the djangosnippets.settings.production module and the requirements.txt.
 .. _bower: http://bower.io/
 .. _compass: http://compass-style.org/install/
 .. _foundation: http://foundation.zurb.com/
+
+
+Examples
+---------
+Integrate Django | Angular JS | Filter App lication : https://shriniket.home.blog/2019/09/22/integrate-angular-js-with-django-filter-application/
+
